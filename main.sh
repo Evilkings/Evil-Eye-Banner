@@ -1,5 +1,5 @@
-#Razor Kenway 
-#SL Android
+#EviL KinG ProgramS 
+#EviL KinG
 
 
 #color
@@ -20,12 +20,12 @@ echo -e $lb "█████╗  ███╗██████╦╝███�
 echo -e $lb "██╔══╝  ╚══╝██╔══██╗██╔══██║██║╚████║██║╚████║██╔══╝  ██╔══██╗"
 echo -e $lb "███████╗    ██████╦╝██║  ██║██║ ╚███║██║ ╚███║███████╗██║  ██║"
 echo -e $lb "╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝"
-echo -e $r  "                                  Tool by - Razor Kenway"
+echo -e $r  "                                  Tool by - Evil KinG ProgramS"
 echo
-echo -e $y "What is Your Banner name ? : \c"
+echo -e $y "EVIL KING PROGRAMS ? : \c"
 read varBname
 echo 
-echo -e $y "What is Your name ? : \c"
+echo -e $y "EVIL KING PROGRAMS ? : \c"
 read varname
 
 echo "cowsay -f eyes "$varname" | lolcat " > name.txt
